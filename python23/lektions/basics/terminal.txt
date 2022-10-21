@@ -1,0 +1,26 @@
+ls -у нас показывакет вск файлы внутпи текущей дтроектортб
+ls test-показывакет все файлы  и папуи внутпи tes
+ls-a показывакет такде скскрытыу файлыp
+ls -l pokazivat bolee pjdrobnuy infu o failah i papkah
+cd - perhodit v domsd=hniy papky 
+cd~ -perehodit v domaschney papky
+cd test - perehodit v paku test. esli takaya papka SUSHEstvut v tekuschei direktor
+cd . - perehodit v  tekuschei PAPku [octetsy v nuew je]
+cd .. - perehodit v roditelskuy papk y4
+cd .././../. perehodit na dve papki nazad
+mkdir test - sozdaet paku v tekuschei direktor 
+mkdir test/test2  - sozdaet paku test2 v paku test2 esli paku test SUSHEstvut
+mkdit test1  test2 - cozdaet paku test1 i testt2 v takaya direktor
+touch test.txt - cozdaet faili v tekuschei direktor
+touch test {1,2,3}.txt sozdaet faili test1 test2 test3
+rm test - udolyaet faily test [esli eto ne papk]
+rm-rf test - udolyaet fail ili papku so vsem soderjimim [udolyaet bezvratno]
+pwd  - pokazivat onsolytntyi put nachinaya s kornevoi paku /  do tekuschei direktor
+[print working diroktory]
+cat test.txt  -pokazivat soderjimim faila 
+nano test.txt  - otkrivat fail test.txt v redaktore koda nano 
+code test - otkrivat paku ili fail test vv redaktore koda VSCode
+ sudo  -prava supeer polzovatelya 
+ (apt  -sistemnyi ustanovshik paketov)
+ snap  - ustanovshik paketov v osnovnom prilojemi
+ 
